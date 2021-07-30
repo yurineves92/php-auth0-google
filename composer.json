@@ -1,0 +1,23 @@
+{
+    "name": "yuri/google-auth",
+    "description": "Login Social using Google and OAuth 2 Client",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuri Neves",
+            "email": "yurineves92@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+    "require": {
+        "league/oauth2-google": "3.0.*"
+    }
+}
