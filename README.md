@@ -1,6 +1,6 @@
 # Use of third-party library
 
-Using the Data Layer library for database abstraction.
+Using the package [OAuth2](https://packagist.org/packages/league/oauth2-google) for authentication.
 
 # Packages
 
